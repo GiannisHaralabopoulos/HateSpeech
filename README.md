@@ -2,7 +2,7 @@
 
 The supported dataset was created by Antonios Alvanos for his M.Sc Project.
 
-**Please cite the aforementioned papers, if you find the lexicon useful for your research.**
+**Please cite the aforementioned papers, if you find the dataset useful for your research.**
 
 ## **Header description**
 
